@@ -1,6 +1,6 @@
-torrar("pão na chapa")
+torrar("pão na chapa", "camisa")
 
-function torrar(pao, valor =99.90, nome = "cliente") {
+function torrar(pao, nome, valor =99.90) {
   console.log("torrada feita com " + pao)
   console.log("ela é um pedido de " + nome)
   console.log("O valor total é " + valor)

@@ -1,8 +1,7 @@
-torrar("pão de forma")
-torrar("pão integral")
-
-function torrar(pao) {
+function torrar(pao, nome) {
   console.log("torrada feita com " + pao)
+  console.log("ela é um pedido de " + nome)
 }
 
-console.log
+torrar("pão de forma", "camisa")
+torrar("pão integral", "bermuda")

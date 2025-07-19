@@ -4,8 +4,6 @@ Este repositório reúne três pequenos projetos desenvolvidos durante o bootcam
 
 Cada projeto teve como objetivo exercitar os fundamentos da linguagem JavaScript, com foco em lógica de programação, estruturas de controle, manipulação de dados e introdução à programação orientada a objetos.
 
----
-
 ## 📌 1. hero-game-class
 
 **📝 Descrição:**  
@@ -23,8 +21,6 @@ Projeto que simula personagens de um jogo por meio de uma classe `Heroi`, que re
 - Estrutura `switch/case`  
 - Métodos personalizados dentro de uma classe  
 - Manipulação e exibição de dados no console
-
----
 
 ## 📌 2. ranked-calculator
 
@@ -45,8 +41,6 @@ Função em JavaScript que calcula o saldo de vitórias de um jogador e classifi
 - Tipagem dinâmica de variáveis (`let`, `const`)  
 - Retorno de valores e interpolação de string
 
----
-
 ## 📌 3. hero-level-classifier
 
 **📝 Descrição:**  
@@ -65,15 +59,11 @@ Programa em JavaScript que classifica o nível de um herói com base na quantida
 - Interpolação de strings com crase (`template literals`)  
 - Separação lógica do código (entrada, processamento, saída)
 
----
-
 ## 🛠️ Tecnologias utilizadas
 
 - JavaScript (ES6+)
 - Ambiente: console do navegador ou Node.js
 - Editor de código: Visual Studio Code
-
----
 
 ## 🎯 Conclusão
 
